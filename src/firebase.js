@@ -4,7 +4,7 @@ import "firebase/database";
 import "firebase/storage";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAJY_1HRRX3QtiGohbHZwIpnxyxxRg_UKg",
+  apiKey: "API_KEY",
   authDomain: "chat-app-daa67.firebaseapp.com",
   databaseURL: "https://chat-app-daa67.firebaseio.com",
   projectId: "chat-app-daa67",
